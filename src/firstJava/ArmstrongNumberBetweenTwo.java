@@ -4,18 +4,16 @@ package firstJava;
 import java.util.Scanner;
 
 public class ArmstrongNumberBetweenTwo {
-    public static int armstrongNumber(int number) {
-        int temp = number;
+    public static boolean armstrongNumber(int number) {
+        int originalNumber = number;
         int armstrongNumber = 0;
         while (number != 0) {
             int rem = number % 10;
             armstrongNumber = armstrongNumber + (rem * rem * rem);
             number = number / 10;
         }
-        if (temp == armstrongNumber)
-            return armstrongNumber;
-        else
-            return 0;
+        return originalNumber == armstrongNumber;
+
     }
 
     public static void main(String[] args) {
@@ -26,7 +24,9 @@ public class ArmstrongNumberBetweenTwo {
         int end = sc.nextInt();
 
         for (int i = start; i <= end; i++) {
-            armstrongNumber(i);
+            if (armstrongNumber(i))
+                System.out.println(i);
+
         }
 
 

@@ -1,4 +1,4 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
 //Subtract the Product and Sum of Digits of an Integer
 public class SubtractTheProductAndSomeOfDigit {

@@ -1,4 +1,4 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
 
 //        Total Surface Area Of Cube

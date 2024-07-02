@@ -1,4 +1,4 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
 //Curved Surface Area Of Cylinder
 public class CurvedSurfaceAreaOfCylinder {

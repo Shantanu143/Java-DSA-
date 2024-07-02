@@ -1,4 +1,4 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
 public class Perimeters {
 

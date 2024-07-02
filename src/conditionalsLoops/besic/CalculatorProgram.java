@@ -1,6 +1,5 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class CalculatorProgram {

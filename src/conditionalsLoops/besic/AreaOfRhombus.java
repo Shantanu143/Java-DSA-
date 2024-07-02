@@ -1,4 +1,4 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
 //Area Of Rhombus
 public class AreaOfRhombus {

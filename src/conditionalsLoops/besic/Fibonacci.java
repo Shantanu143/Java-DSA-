@@ -1,6 +1,4 @@
-package conditionalsLoops;
-
-import org.w3c.dom.ls.LSOutput;
+package conditionalsLoops.besic;
 
 public class Fibonacci {
     public static void main(String[] args) {

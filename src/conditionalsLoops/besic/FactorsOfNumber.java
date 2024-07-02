@@ -1,4 +1,4 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
 //Input a number and print all the factors of that number
 public class FactorsOfNumber {

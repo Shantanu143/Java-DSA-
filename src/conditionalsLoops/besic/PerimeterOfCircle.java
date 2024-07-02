@@ -1,4 +1,4 @@
-package conditionalsLoops;
+package conditionalsLoops.besic;
 
 //Perimeter Of Circle
 public class PerimeterOfCircle {
